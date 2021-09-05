@@ -17,7 +17,6 @@ at http://127.0.0.1:80/get_products ->to view all products
 
 at http://127.0.0.1:80/cart-> to view cart
 
-check demo video as well
 
 --------------------------------------------API's------------------------------------------------------------
 
