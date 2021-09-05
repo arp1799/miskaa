@@ -3,10 +3,14 @@
 
 --------------------------------------------How To Run------------------------------------------------------------
 
-1)clone the floder 
+1)clone the floder
+
 2)"cd miskaa"
+
 3)install required libraries(flask,flask_pymongo) if not there
+
 4)"venv\Scripts\activate" enter this in terminal to switch to virtual enviorment of this folder
+
 5)"py app.py" to run the app at http://127.0.0.1:80/
 
 at http://127.0.0.1:80/get_products ->to view all products
