@@ -1,5 +1,6 @@
 # miskaa
  very basic restful API's for cart using flask,mongodb
+ for now env variables are included in main file only for easy access
 
 --------------------------------------------How To Run------------------------------------------------------------
 
